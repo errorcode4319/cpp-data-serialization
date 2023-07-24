@@ -54,7 +54,6 @@ _deps
 
 ### VisualStudioCode ###
 .vscode/*
-!.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
@@ -72,3 +71,4 @@ _deps
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/cmake,c++,visualstudiocode
+build 
